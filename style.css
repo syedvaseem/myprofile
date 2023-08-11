@@ -1,0 +1,19 @@
+
+
+  a{
+    color: rgb(37, 18, 67);
+  }
+  a:visited{
+    color:rgb(20, 19, 19);
+  }
+  a:hover{
+    color:rgb(6, 32, 4);
+  }
+  a:active{
+    color:white;
+  }
+  body {
+    background-color: burlywood;
+  }
+
+  
